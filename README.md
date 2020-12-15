@@ -14,3 +14,8 @@ You are required to submit the following:
 * The URLs of the deployed applications
 
 * The URLs of the GitHub repositories
+
+https://github.com/Marc-Gaynor/Responsive_Portfolio
+
+https://marc-gaynor.github.io/Responsive_Portfolio/
+
